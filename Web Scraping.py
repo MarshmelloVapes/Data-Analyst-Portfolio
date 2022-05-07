@@ -1,3 +1,7 @@
+# This project scraps some forex websites to create a basic csv that can later be used to analize the data.
+# I may add more to this project in the future that would include: news article headlines at time of fetch,
+# market feel (bear / bullish), and a few other data objects.
+
 # Import Libaries
 from bs4 import BeautifulSoup as bs
 import requests
