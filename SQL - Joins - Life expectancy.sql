@@ -9,7 +9,7 @@ This was made using MYSQL.
 The data being joined on this file exist in one already. This is mainly a test to see
 how I would combine the two given a common variable. This would work if I only had
 A: Entity, Code, Life expecatancy
-b: Entity, Code, GDP Per Capita
+b: Code, GDP Per Capita, Population (historical estimates)
 
 The table created can be exported and used in a similar way to my first life expectancy
 project. This time, maybe looking at the correlation between the gdp growth and the life expectancy rise
