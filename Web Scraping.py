@@ -1,7 +1,3 @@
-# This project scraps some forex websites to create a basic csv that can later be used to analize the data.
-# I may add more to this project in the future that would include: news article headlines at time of fetch,
-# market feel (bear / bullish), and a few other data objects.
-
 # Import Libaries
 from bs4 import BeautifulSoup as bs
 import requests
@@ -22,13 +18,13 @@ def checkPrice():
     getPriceData = requests.get(priceURL, headers=headers)
 
     ps1 = bs(getData.content, "html.parser")
-    ps2 = bs(ps1.prettify(), "html.parser")
+    ps1 = bs(ps1.prettify(), "html.parser")
 
-    ps1 = bs(getPriceData.content, "html.parser")
-    ps2 = bs(ps1.prettify(), "html.parser")
+    ps2 = bs(getPriceData.content, "html.parser")
+    ps2 = bs(ps2.prettify(), "html.parser")
 
     # Get data.
-    pairTitle = ps2.find(class_="mr-sm-4 dfx-serif-anti-cls").get_text()
+    pairTitle = ps1.find(class_="mr-sm-4 dfx-serif-anti-cls").get_text()
     pairCurrnetPrice = ps2.find(class_="Fw(b) Fz(36px) Mb(-4px) D(ib)").get_text()
     pairCurrentDayChange = ps2.find(class_="Fw(500) Pstart(8px) Fz(24px)").get_text()
     today = datetime.date.today()
@@ -45,6 +41,7 @@ def checkPrice():
 
     with open('Forex.csv', 'a+', newline='', encoding='UTF8') as f:
         writer = csv.writer(f)
+        # writer.writerow(header)
         writer.writerow(data)
 
     print('Printed Prices')
@@ -54,4 +51,4 @@ def checkPrice():
 # 4hr = 14400
 while(True):
     checkPrice()
-    time.sleep(14400)
+    time.sleep(40)
