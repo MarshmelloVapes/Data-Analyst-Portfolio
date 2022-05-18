@@ -1,0 +1,632 @@
+[
+  {
+    "year": 1945,
+    "Mean cumulative mass balance": 0,
+    "Number of observations": "0",
+    "CSIRO Adjusted Sea Level": 2.95669291,
+    "Lower Error Bound": 2.535433068,
+    "Upper Error Bound": 3.377952752,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1946,
+    "Mean cumulative mass balance": -1.13,
+    "Number of observations": "1",
+    "CSIRO Adjusted Sea Level": 3.251968501,
+    "Lower Error Bound": 2.834645666,
+    "Upper Error Bound": 3.669291335,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1947,
+    "Mean cumulative mass balance": -3.19,
+    "Number of observations": "1",
+    "CSIRO Adjusted Sea Level": 3.374015745,
+    "Lower Error Bound": 2.996062989,
+    "Upper Error Bound": 3.7519685,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1948,
+    "Mean cumulative mass balance": -3.19,
+    "Number of observations": "1",
+    "CSIRO Adjusted Sea Level": 3.562992122,
+    "Lower Error Bound": 3.19685039,
+    "Upper Error Bound": 3.929133854,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1949,
+    "Mean cumulative mass balance": -3.82,
+    "Number of observations": "3",
+    "CSIRO Adjusted Sea Level": 3.51181102,
+    "Lower Error Bound": 3.181102359,
+    "Upper Error Bound": 3.842519681,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1950,
+    "Mean cumulative mass balance": -4.887,
+    "Number of observations": "3",
+    "CSIRO Adjusted Sea Level": 3.598425193,
+    "Lower Error Bound": 3.287401571,
+    "Upper Error Bound": 3.909448815,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1951,
+    "Mean cumulative mass balance": -5.217,
+    "Number of observations": "3",
+    "CSIRO Adjusted Sea Level": 3.972440941,
+    "Lower Error Bound": 3.665354327,
+    "Upper Error Bound": 4.279527555,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1952,
+    "Mean cumulative mass balance": -5.707,
+    "Number of observations": "3",
+    "CSIRO Adjusted Sea Level": 3.870078736,
+    "Lower Error Bound": 3.56692913,
+    "Upper Error Bound": 4.173228342,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1953,
+    "Mean cumulative mass balance": -6.341,
+    "Number of observations": "7",
+    "CSIRO Adjusted Sea Level": 4.043307082,
+    "Lower Error Bound": 3.748031492,
+    "Upper Error Bound": 4.338582673,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1954,
+    "Mean cumulative mass balance": -6.825,
+    "Number of observations": "6",
+    "CSIRO Adjusted Sea Level": 3.929133854,
+    "Lower Error Bound": 3.64173228,
+    "Upper Error Bound": 4.216535429,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1955,
+    "Mean cumulative mass balance": -6.575,
+    "Number of observations": "7",
+    "CSIRO Adjusted Sea Level": 3.964566925,
+    "Lower Error Bound": 3.685039366,
+    "Upper Error Bound": 4.244094484,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1956,
+    "Mean cumulative mass balance": -6.814,
+    "Number of observations": "7",
+    "CSIRO Adjusted Sea Level": 3.763779524,
+    "Lower Error Bound": 3.488188973,
+    "Upper Error Bound": 4.039370075,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1957,
+    "Mean cumulative mass balance": -6.989,
+    "Number of observations": "9",
+    "CSIRO Adjusted Sea Level": 4.291338578,
+    "Lower Error Bound": 4.019685035,
+    "Upper Error Bound": 4.562992121,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1958,
+    "Mean cumulative mass balance": -7.693,
+    "Number of observations": "9",
+    "CSIRO Adjusted Sea Level": 4.346456688,
+    "Lower Error Bound": 4.086614169,
+    "Upper Error Bound": 4.606299208,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1959,
+    "Mean cumulative mass balance": -8.325,
+    "Number of observations": "11",
+    "CSIRO Adjusted Sea Level": 4.358267712,
+    "Lower Error Bound": 4.102362201,
+    "Upper Error Bound": 4.614173224,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1960,
+    "Mean cumulative mass balance": -8.688,
+    "Number of observations": "14",
+    "CSIRO Adjusted Sea Level": 4.503937003,
+    "Lower Error Bound": 4.244094484,
+    "Upper Error Bound": 4.763779523,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1961,
+    "Mean cumulative mass balance": -8.935,
+    "Number of observations": "15",
+    "CSIRO Adjusted Sea Level": 4.748031491,
+    "Lower Error Bound": 4.488188972,
+    "Upper Error Bound": 5.007874011,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1962,
+    "Mean cumulative mass balance": -9.109,
+    "Number of observations": "20",
+    "CSIRO Adjusted Sea Level": 4.543307082,
+    "Lower Error Bound": 4.283464563,
+    "Upper Error Bound": 4.803149601,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1963,
+    "Mean cumulative mass balance": -9.567,
+    "Number of observations": "22",
+    "CSIRO Adjusted Sea Level": 4.480314956,
+    "Lower Error Bound": 4.220472437,
+    "Upper Error Bound": 4.740157475,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1964,
+    "Mean cumulative mass balance": -9.699,
+    "Number of observations": "22",
+    "CSIRO Adjusted Sea Level": 4.169291334,
+    "Lower Error Bound": 3.905511807,
+    "Upper Error Bound": 4.433070862,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1965,
+    "Mean cumulative mass balance": -9.298,
+    "Number of observations": "24",
+    "CSIRO Adjusted Sea Level": 4.610236216,
+    "Lower Error Bound": 4.346456688,
+    "Upper Error Bound": 4.874015743,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1966,
+    "Mean cumulative mass balance": -9.436,
+    "Number of observations": "27",
+    "CSIRO Adjusted Sea Level": 4.397637791,
+    "Lower Error Bound": 4.137795271,
+    "Upper Error Bound": 4.65748031,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1967,
+    "Mean cumulative mass balance": -9.303,
+    "Number of observations": "29",
+    "CSIRO Adjusted Sea Level": 4.452755901,
+    "Lower Error Bound": 4.196850389,
+    "Upper Error Bound": 4.708661413,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1968,
+    "Mean cumulative mass balance": -9.219,
+    "Number of observations": "31",
+    "CSIRO Adjusted Sea Level": 4.484251964,
+    "Lower Error Bound": 4.220472437,
+    "Upper Error Bound": 4.748031491,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1969,
+    "Mean cumulative mass balance": -9.732,
+    "Number of observations": "31",
+    "CSIRO Adjusted Sea Level": 4.751968499,
+    "Lower Error Bound": 4.476377948,
+    "Upper Error Bound": 5.02755905,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1970,
+    "Mean cumulative mass balance": -10.128,
+    "Number of observations": "32",
+    "CSIRO Adjusted Sea Level": 4.67716535,
+    "Lower Error Bound": 4.401574799,
+    "Upper Error Bound": 4.9527559,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1971,
+    "Mean cumulative mass balance": -10.288,
+    "Number of observations": "32",
+    "CSIRO Adjusted Sea Level": 4.881889759,
+    "Lower Error Bound": 4.610236216,
+    "Upper Error Bound": 5.153543302,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1972,
+    "Mean cumulative mass balance": -10.441,
+    "Number of observations": "32",
+    "CSIRO Adjusted Sea Level": 5.240157475,
+    "Lower Error Bound": 4.968503932,
+    "Upper Error Bound": 5.511811018,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1973,
+    "Mean cumulative mass balance": -10.538,
+    "Number of observations": "32",
+    "CSIRO Adjusted Sea Level": 5.003937003,
+    "Lower Error Bound": 4.736220468,
+    "Upper Error Bound": 5.271653538,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1974,
+    "Mean cumulative mass balance": -10.613,
+    "Number of observations": "32",
+    "CSIRO Adjusted Sea Level": 5.472440939,
+    "Lower Error Bound": 5.204724404,
+    "Upper Error Bound": 5.740157474,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1975,
+    "Mean cumulative mass balance": -10.534,
+    "Number of observations": "33",
+    "CSIRO Adjusted Sea Level": 5.409448813,
+    "Lower Error Bound": 5.145669286,
+    "Upper Error Bound": 5.673228341,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1976,
+    "Mean cumulative mass balance": -10.633,
+    "Number of observations": "35",
+    "CSIRO Adjusted Sea Level": 5.370078735,
+    "Lower Error Bound": 5.1023622,
+    "Upper Error Bound": 5.63779527,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1977,
+    "Mean cumulative mass balance": -10.682,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 5.303149601,
+    "Lower Error Bound": 5.043307081,
+    "Upper Error Bound": 5.56299212,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1978,
+    "Mean cumulative mass balance": -10.754,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 5.555118105,
+    "Lower Error Bound": 5.291338577,
+    "Upper Error Bound": 5.818897632,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1979,
+    "Mean cumulative mass balance": -11.127,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 5.362204719,
+    "Lower Error Bound": 5.098425192,
+    "Upper Error Bound": 5.625984246,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1980,
+    "Mean cumulative mass balance": -11.318,
+    "Number of observations": "36",
+    "CSIRO Adjusted Sea Level": 5.598425191,
+    "Lower Error Bound": 5.34251968,
+    "Upper Error Bound": 5.854330703,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1981,
+    "Mean cumulative mass balance": -11.394,
+    "Number of observations": "35",
+    "CSIRO Adjusted Sea Level": 6.086614167,
+    "Lower Error Bound": 5.830708655,
+    "Upper Error Bound": 6.342519679,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1982,
+    "Mean cumulative mass balance": -11.849,
+    "Number of observations": "36",
+    "CSIRO Adjusted Sea Level": 5.858267711,
+    "Lower Error Bound": 5.610236215,
+    "Upper Error Bound": 6.106299206,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1983,
+    "Mean cumulative mass balance": -11.846,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.188976372,
+    "Lower Error Bound": 5.93307086,
+    "Upper Error Bound": 6.444881883,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1984,
+    "Mean cumulative mass balance": -11.902,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.153543301,
+    "Lower Error Bound": 5.905511805,
+    "Upper Error Bound": 6.401574797,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1985,
+    "Mean cumulative mass balance": -12.238,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 5.74803149,
+    "Lower Error Bound": 5.499999994,
+    "Upper Error Bound": 5.996062986,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1986,
+    "Mean cumulative mass balance": -12.782,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 5.771653537,
+    "Lower Error Bound": 5.523622042,
+    "Upper Error Bound": 6.019685033,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1987,
+    "Mean cumulative mass balance": -12.795,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 5.795275585,
+    "Lower Error Bound": 5.551181097,
+    "Upper Error Bound": 6.039370073,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1988,
+    "Mean cumulative mass balance": -13.26,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 5.980314955,
+    "Lower Error Bound": 5.732283459,
+    "Upper Error Bound": 6.22834645,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1989,
+    "Mean cumulative mass balance": -13.343,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.157480309,
+    "Lower Error Bound": 5.905511805,
+    "Upper Error Bound": 6.409448812,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1990,
+    "Mean cumulative mass balance": -13.687,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.232283458,
+    "Lower Error Bound": 5.972440939,
+    "Upper Error Bound": 6.492125978,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1991,
+    "Mean cumulative mass balance": -14.255,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.334645663,
+    "Lower Error Bound": 6.074803143,
+    "Upper Error Bound": 6.594488182,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1992,
+    "Mean cumulative mass balance": -14.501,
+    "Number of observations": "36",
+    "CSIRO Adjusted Sea Level": 6.35826771,
+    "Lower Error Bound": 6.094488183,
+    "Upper Error Bound": 6.622047237,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "year": 1993,
+    "Mean cumulative mass balance": -14.695,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.291338576,
+    "Lower Error Bound": 6.027559049,
+    "Upper Error Bound": 6.555118104,
+    "NOAA Adjusted Sea Level": "6.297493046"
+  },
+  {
+    "year": 1994,
+    "Mean cumulative mass balance": -15.276,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.499999993,
+    "Lower Error Bound": 6.236220466,
+    "Upper Error Bound": 6.763779521,
+    "NOAA Adjusted Sea Level": "6.310933553"
+  },
+  {
+    "year": 1995,
+    "Mean cumulative mass balance": -15.486,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.618110229,
+    "Lower Error Bound": 6.354330702,
+    "Upper Error Bound": 6.881889757,
+    "NOAA Adjusted Sea Level": "6.452568661"
+  },
+  {
+    "year": 1996,
+    "Mean cumulative mass balance": -15.89,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.787401568,
+    "Lower Error Bound": 6.523622041,
+    "Upper Error Bound": 7.051181095,
+    "NOAA Adjusted Sea Level": "6.62763131"
+  },
+  {
+    "year": 1997,
+    "Mean cumulative mass balance": -16.487,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.066929127,
+    "Lower Error Bound": 6.803149599,
+    "Upper Error Bound": 7.330708654,
+    "NOAA Adjusted Sea Level": "6.733920367"
+  },
+  {
+    "year": 1998,
+    "Mean cumulative mass balance": -17.31,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 6.665354324,
+    "Lower Error Bound": 6.393700781,
+    "Upper Error Bound": 6.937007867,
+    "NOAA Adjusted Sea Level": "6.865806069"
+  },
+  {
+    "year": 1999,
+    "Mean cumulative mass balance": -17.697,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.011811016,
+    "Lower Error Bound": 6.736220466,
+    "Upper Error Bound": 7.287401567,
+    "NOAA Adjusted Sea Level": "6.848689771"
+  },
+  {
+    "year": 2000,
+    "Mean cumulative mass balance": -17.727,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.062992119,
+    "Lower Error Bound": 6.791338576,
+    "Upper Error Bound": 7.334645662,
+    "NOAA Adjusted Sea Level": "6.920582014"
+  },
+  {
+    "year": 2001,
+    "Mean cumulative mass balance": -18.032,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.287401567,
+    "Lower Error Bound": 7.019685032,
+    "Upper Error Bound": 7.555118103,
+    "NOAA Adjusted Sea Level": "7.087460011"
+  },
+  {
+    "year": 2002,
+    "Mean cumulative mass balance": -18.726,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.381889756,
+    "Lower Error Bound": 7.110236213,
+    "Upper Error Bound": 7.653543299,
+    "NOAA Adjusted Sea Level": "7.319697525"
+  },
+  {
+    "year": 2003,
+    "Mean cumulative mass balance": -19.984,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.759842512,
+    "Lower Error Bound": 7.484251961,
+    "Upper Error Bound": 8.035433063,
+    "NOAA Adjusted Sea Level": "7.488352718"
+  },
+  {
+    "year": 2004,
+    "Mean cumulative mass balance": -20.703,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.740157472,
+    "Lower Error Bound": 7.464566922,
+    "Upper Error Bound": 8.015748023,
+    "NOAA Adjusted Sea Level": "7.507932839"
+  },
+  {
+    "year": 2005,
+    "Mean cumulative mass balance": -21.405,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.74409448,
+    "Lower Error Bound": 7.472440937,
+    "Upper Error Bound": 8.015748023,
+    "NOAA Adjusted Sea Level": "7.644563144"
+  },
+  {
+    "year": 2006,
+    "Mean cumulative mass balance": -22.595,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.917322827,
+    "Lower Error Bound": 7.645669284,
+    "Upper Error Bound": 8.18897637,
+    "NOAA Adjusted Sea Level": "7.697420009"
+  },
+  {
+    "year": 2007,
+    "Mean cumulative mass balance": -23.255,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 7.996062984,
+    "Lower Error Bound": 7.712598417,
+    "Upper Error Bound": 8.279527551,
+    "NOAA Adjusted Sea Level": "7.70214715"
+  },
+  {
+    "year": 2008,
+    "Mean cumulative mass balance": -23.776,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 8.350393692,
+    "Lower Error Bound": 8.078740149,
+    "Upper Error Bound": 8.622047235,
+    "NOAA Adjusted Sea Level": "7.90736541"
+  },
+  {
+    "year": 2009,
+    "Mean cumulative mass balance": -24.459,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 8.586614164,
+    "Lower Error Bound": 8.311023614,
+    "Upper Error Bound": 8.862204715,
+    "NOAA Adjusted Sea Level": "8.04635409"
+  },
+  {
+    "year": 2010,
+    "Mean cumulative mass balance": -25.158,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 8.901574794,
+    "Lower Error Bound": 8.618110227,
+    "Upper Error Bound": 9.185039361,
+    "NOAA Adjusted Sea Level": "8.122972567"
+  },
+  {
+    "year": 2011,
+    "Mean cumulative mass balance": -26.294,
+    "Number of observations": "37",
+    "CSIRO Adjusted Sea Level": 8.96456692,
+    "Lower Error Bound": 8.661417314,
+    "Upper Error Bound": 9.267716526,
+    "NOAA Adjusted Sea Level": "8.053065004"
+  },
+  {
+    "year": 2012,
+    "Mean cumulative mass balance": -26.93,
+    "Number of observations": "36",
+    "CSIRO Adjusted Sea Level": 9.326771644,
+    "Lower Error Bound": 8.992125975,
+    "Upper Error Bound": 9.661417313,
+    "NOAA Adjusted Sea Level": "8.457057629"
+  },
+  {
+    "year": 2013,
+    "Mean cumulative mass balance": -27.817,
+    "Number of observations": "31",
+    "CSIRO Adjusted Sea Level": 8.980314951,
+    "Lower Error Bound": 8.622047235,
+    "Upper Error Bound": 9.338582668,
+    "NOAA Adjusted Sea Level": "8.546648227"
+  },
+  {
+    "year": 2014,
+    "Mean cumulative mass balance": -28.652,
+    "Number of observations": "24",
+    "CSIRO Adjusted Sea Level": 0,
+    "Lower Error Bound": 0,
+    "Upper Error Bound": 0,
+    "NOAA Adjusted Sea Level": "8.663700393"
+  }
+]

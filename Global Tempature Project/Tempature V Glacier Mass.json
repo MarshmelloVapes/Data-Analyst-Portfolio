@@ -1,0 +1,492 @@
+[
+  {
+    "Tempature Source": "GCAG",
+    "year": 1945,
+    "Mean Tempature": 0.171,
+    "Mean cumulative mass balance": 0,
+    "Number of observations": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1946,
+    "Mean Tempature": -0.004,
+    "Mean cumulative mass balance": -1.13,
+    "Number of observations": "1"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1947,
+    "Mean Tempature": -0.0477,
+    "Mean cumulative mass balance": -3.19,
+    "Number of observations": "1"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1948,
+    "Mean Tempature": -0.0487,
+    "Mean cumulative mass balance": -3.19,
+    "Number of observations": "1"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1949,
+    "Mean Tempature": -0.0568,
+    "Mean cumulative mass balance": -3.82,
+    "Number of observations": "3"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1950,
+    "Mean Tempature": -0.1616,
+    "Mean cumulative mass balance": -4.887,
+    "Number of observations": "3"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1951,
+    "Mean Tempature": -0.0132,
+    "Mean cumulative mass balance": -5.217,
+    "Number of observations": "3"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1952,
+    "Mean Tempature": 0.0248,
+    "Mean cumulative mass balance": -5.707,
+    "Number of observations": "3"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1953,
+    "Mean Tempature": 0.0952,
+    "Mean cumulative mass balance": -6.341,
+    "Number of observations": "7"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1954,
+    "Mean Tempature": -0.1165,
+    "Mean cumulative mass balance": -6.825,
+    "Number of observations": "6"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1955,
+    "Mean Tempature": -0.1354,
+    "Mean cumulative mass balance": -6.575,
+    "Number of observations": "7"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1956,
+    "Mean Tempature": -0.199,
+    "Mean cumulative mass balance": -6.814,
+    "Number of observations": "7"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1957,
+    "Mean Tempature": 0.0488,
+    "Mean cumulative mass balance": -6.989,
+    "Number of observations": "9"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1958,
+    "Mean Tempature": 0.1095,
+    "Mean cumulative mass balance": -7.693,
+    "Number of observations": "9"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1959,
+    "Mean Tempature": 0.0596,
+    "Mean cumulative mass balance": -8.325,
+    "Number of observations": "11"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1960,
+    "Mean Tempature": 0.0204,
+    "Mean cumulative mass balance": -8.688,
+    "Number of observations": "14"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1961,
+    "Mean Tempature": 0.0775,
+    "Mean cumulative mass balance": -8.935,
+    "Number of observations": "15"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1962,
+    "Mean Tempature": 0.0888,
+    "Mean cumulative mass balance": -9.109,
+    "Number of observations": "20"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1963,
+    "Mean Tempature": 0.1068,
+    "Mean cumulative mass balance": -9.567,
+    "Number of observations": "22"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1964,
+    "Mean Tempature": -0.1495,
+    "Mean cumulative mass balance": -9.699,
+    "Number of observations": "22"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1965,
+    "Mean Tempature": -0.078,
+    "Mean cumulative mass balance": -9.298,
+    "Number of observations": "24"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1966,
+    "Mean Tempature": -0.0227,
+    "Mean cumulative mass balance": -9.436,
+    "Number of observations": "27"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1967,
+    "Mean Tempature": -0.0131,
+    "Mean cumulative mass balance": -9.303,
+    "Number of observations": "29"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1968,
+    "Mean Tempature": -0.0296,
+    "Mean cumulative mass balance": -9.219,
+    "Number of observations": "31"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1969,
+    "Mean Tempature": 0.0929,
+    "Mean cumulative mass balance": -9.732,
+    "Number of observations": "31"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1970,
+    "Mean Tempature": 0.0372,
+    "Mean cumulative mass balance": -10.128,
+    "Number of observations": "32"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1971,
+    "Mean Tempature": -0.0783,
+    "Mean cumulative mass balance": -10.288,
+    "Number of observations": "32"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1972,
+    "Mean Tempature": 0.0264,
+    "Mean cumulative mass balance": -10.441,
+    "Number of observations": "32"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1973,
+    "Mean Tempature": 0.1641,
+    "Mean cumulative mass balance": -10.538,
+    "Number of observations": "32"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1974,
+    "Mean Tempature": -0.0719,
+    "Mean cumulative mass balance": -10.613,
+    "Number of observations": "32"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1975,
+    "Mean Tempature": 0.0034,
+    "Mean cumulative mass balance": -10.534,
+    "Number of observations": "33"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1976,
+    "Mean Tempature": -0.0792,
+    "Mean cumulative mass balance": -10.633,
+    "Number of observations": "35"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1977,
+    "Mean Tempature": 0.1978,
+    "Mean cumulative mass balance": -10.682,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1978,
+    "Mean Tempature": 0.1123,
+    "Mean cumulative mass balance": -10.754,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1979,
+    "Mean Tempature": 0.2273,
+    "Mean cumulative mass balance": -11.127,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1980,
+    "Mean Tempature": 0.2637,
+    "Mean cumulative mass balance": -11.318,
+    "Number of observations": "36"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1981,
+    "Mean Tempature": 0.2999,
+    "Mean cumulative mass balance": -11.394,
+    "Number of observations": "35"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1982,
+    "Mean Tempature": 0.1815,
+    "Mean cumulative mass balance": -11.849,
+    "Number of observations": "36"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1983,
+    "Mean Tempature": 0.3411,
+    "Mean cumulative mass balance": -11.846,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1984,
+    "Mean Tempature": 0.149,
+    "Mean cumulative mass balance": -11.902,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1985,
+    "Mean Tempature": 0.1342,
+    "Mean cumulative mass balance": -12.238,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1986,
+    "Mean Tempature": 0.2296,
+    "Mean cumulative mass balance": -12.782,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1987,
+    "Mean Tempature": 0.3696,
+    "Mean cumulative mass balance": -12.795,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1988,
+    "Mean Tempature": 0.3757,
+    "Mean cumulative mass balance": -13.26,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1989,
+    "Mean Tempature": 0.297,
+    "Mean cumulative mass balance": -13.343,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1990,
+    "Mean Tempature": 0.4328,
+    "Mean cumulative mass balance": -13.687,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1991,
+    "Mean Tempature": 0.4055,
+    "Mean cumulative mass balance": -14.255,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1992,
+    "Mean Tempature": 0.2571,
+    "Mean cumulative mass balance": -14.501,
+    "Number of observations": "36"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1993,
+    "Mean Tempature": 0.2853,
+    "Mean cumulative mass balance": -14.695,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1994,
+    "Mean Tempature": 0.3409,
+    "Mean cumulative mass balance": -15.276,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1995,
+    "Mean Tempature": 0.4577,
+    "Mean cumulative mass balance": -15.486,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1996,
+    "Mean Tempature": 0.3228,
+    "Mean cumulative mass balance": -15.89,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1997,
+    "Mean Tempature": 0.5187,
+    "Mean cumulative mass balance": -16.487,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1998,
+    "Mean Tempature": 0.6344,
+    "Mean cumulative mass balance": -17.31,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1999,
+    "Mean Tempature": 0.4438,
+    "Mean cumulative mass balance": -17.697,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2000,
+    "Mean Tempature": 0.4262,
+    "Mean cumulative mass balance": -17.727,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2001,
+    "Mean Tempature": 0.5473,
+    "Mean cumulative mass balance": -18.032,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2002,
+    "Mean Tempature": 0.6023,
+    "Mean cumulative mass balance": -18.726,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2003,
+    "Mean Tempature": 0.6134,
+    "Mean cumulative mass balance": -19.984,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2004,
+    "Mean Tempature": 0.5783,
+    "Mean cumulative mass balance": -20.703,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2005,
+    "Mean Tempature": 0.6585,
+    "Mean cumulative mass balance": -21.405,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2006,
+    "Mean Tempature": 0.6125,
+    "Mean cumulative mass balance": -22.595,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2007,
+    "Mean Tempature": 0.61,
+    "Mean cumulative mass balance": -23.255,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2008,
+    "Mean Tempature": 0.5419,
+    "Mean cumulative mass balance": -23.776,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2009,
+    "Mean Tempature": 0.6367,
+    "Mean cumulative mass balance": -24.459,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2010,
+    "Mean Tempature": 0.7014,
+    "Mean cumulative mass balance": -25.158,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2011,
+    "Mean Tempature": 0.5788,
+    "Mean cumulative mass balance": -26.294,
+    "Number of observations": "37"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2012,
+    "Mean Tempature": 0.624,
+    "Mean cumulative mass balance": -26.93,
+    "Number of observations": "36"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2013,
+    "Mean Tempature": 0.6679,
+    "Mean cumulative mass balance": -27.817,
+    "Number of observations": "31"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2014,
+    "Mean Tempature": 0.7408,
+    "Mean cumulative mass balance": -28.652,
+    "Number of observations": "24"
+  }
+]

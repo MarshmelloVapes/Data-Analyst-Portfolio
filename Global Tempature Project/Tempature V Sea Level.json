@@ -1,0 +1,1217 @@
+[
+  {
+    "Tempature Source": "GCAG",
+    "year": 1880,
+    "Mean Tempature": -0.1148,
+    "CSIRO Adjusted Sea Level": 0,
+    "Lower Error Bound": -0.952755905,
+    "Upper Error Bound": 0.952755905,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1881,
+    "Mean Tempature": -0.0628,
+    "CSIRO Adjusted Sea Level": 0.220472441,
+    "Lower Error Bound": -0.732283464,
+    "Upper Error Bound": 1.173228345,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1882,
+    "Mean Tempature": -0.0648,
+    "CSIRO Adjusted Sea Level": -0.440944881,
+    "Lower Error Bound": -1.346456692,
+    "Upper Error Bound": 0.464566929,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1883,
+    "Mean Tempature": -0.1424,
+    "CSIRO Adjusted Sea Level": -0.232283464,
+    "Lower Error Bound": -1.129921259,
+    "Upper Error Bound": 0.66535433,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1884,
+    "Mean Tempature": -0.2009,
+    "CSIRO Adjusted Sea Level": 0.590551181,
+    "Lower Error Bound": -0.283464567,
+    "Upper Error Bound": 1.464566928,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1885,
+    "Mean Tempature": -0.2125,
+    "CSIRO Adjusted Sea Level": 0.531496062,
+    "Lower Error Bound": -0.330708661,
+    "Upper Error Bound": 1.393700786,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1886,
+    "Mean Tempature": -0.2003,
+    "CSIRO Adjusted Sea Level": 0.437007874,
+    "Lower Error Bound": -0.381889763,
+    "Upper Error Bound": 1.255905511,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1887,
+    "Mean Tempature": -0.2489,
+    "CSIRO Adjusted Sea Level": 0.216535433,
+    "Lower Error Bound": -0.602362204,
+    "Upper Error Bound": 1.03543307,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1888,
+    "Mean Tempature": -0.1471,
+    "CSIRO Adjusted Sea Level": 0.299212598,
+    "Lower Error Bound": -0.519685039,
+    "Upper Error Bound": 1.118110235,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1889,
+    "Mean Tempature": -0.0982,
+    "CSIRO Adjusted Sea Level": 0.362204724,
+    "Lower Error Bound": -0.456692913,
+    "Upper Error Bound": 1.181102361,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1890,
+    "Mean Tempature": -0.322,
+    "CSIRO Adjusted Sea Level": 0.440944881,
+    "Lower Error Bound": -0.374015748,
+    "Upper Error Bound": 1.255905511,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1891,
+    "Mean Tempature": -0.2532,
+    "CSIRO Adjusted Sea Level": 0.374015748,
+    "Lower Error Bound": -0.440944881,
+    "Upper Error Bound": 1.188976377,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1892,
+    "Mean Tempature": -0.3062,
+    "CSIRO Adjusted Sea Level": 0.499999999,
+    "Lower Error Bound": -0.31496063,
+    "Upper Error Bound": 1.314960629,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1893,
+    "Mean Tempature": -0.3212,
+    "CSIRO Adjusted Sea Level": 0.685039369,
+    "Lower Error Bound": -0.114173228,
+    "Upper Error Bound": 1.484251967,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1894,
+    "Mean Tempature": -0.2808,
+    "CSIRO Adjusted Sea Level": 0.303149606,
+    "Lower Error Bound": -0.547244094,
+    "Upper Error Bound": 1.153543306,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1895,
+    "Mean Tempature": -0.229,
+    "CSIRO Adjusted Sea Level": 0.767716535,
+    "Lower Error Bound": -0.082677165,
+    "Upper Error Bound": 1.618110235,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1896,
+    "Mean Tempature": -0.0974,
+    "CSIRO Adjusted Sea Level": 0.468503937,
+    "Lower Error Bound": -0.366141732,
+    "Upper Error Bound": 1.303149605,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1897,
+    "Mean Tempature": -0.1224,
+    "CSIRO Adjusted Sea Level": 0.673228346,
+    "Lower Error Bound": -0.145669291,
+    "Upper Error Bound": 1.492125983,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1898,
+    "Mean Tempature": -0.2546,
+    "CSIRO Adjusted Sea Level": 1.043307086,
+    "Lower Error Bound": 0.267716535,
+    "Upper Error Bound": 1.818897636,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1899,
+    "Mean Tempature": -0.1173,
+    "CSIRO Adjusted Sea Level": 1.338582676,
+    "Lower Error Bound": 0.574803149,
+    "Upper Error Bound": 2.102362203,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1900,
+    "Mean Tempature": -0.0679,
+    "CSIRO Adjusted Sea Level": 1.125984251,
+    "Lower Error Bound": 0.405511811,
+    "Upper Error Bound": 1.846456691,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1901,
+    "Mean Tempature": -0.1417,
+    "CSIRO Adjusted Sea Level": 1.110236219,
+    "Lower Error Bound": 0.417322834,
+    "Upper Error Bound": 1.803149604,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1902,
+    "Mean Tempature": -0.2463,
+    "CSIRO Adjusted Sea Level": 1.291338581,
+    "Lower Error Bound": 0.61023622,
+    "Upper Error Bound": 1.972440943,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1903,
+    "Mean Tempature": -0.3369,
+    "CSIRO Adjusted Sea Level": 1.606299211,
+    "Lower Error Bound": 0.937007873,
+    "Upper Error Bound": 2.275590549,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1904,
+    "Mean Tempature": -0.4194,
+    "CSIRO Adjusted Sea Level": 1.2007874,
+    "Lower Error Bound": 0.53543307,
+    "Upper Error Bound": 1.86614173,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1905,
+    "Mean Tempature": -0.2931,
+    "CSIRO Adjusted Sea Level": 0.984251968,
+    "Lower Error Bound": 0.377952756,
+    "Upper Error Bound": 1.590551179,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1906,
+    "Mean Tempature": -0.2174,
+    "CSIRO Adjusted Sea Level": 1.251968503,
+    "Lower Error Bound": 0.673228346,
+    "Upper Error Bound": 1.83070866,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1907,
+    "Mean Tempature": -0.3706,
+    "CSIRO Adjusted Sea Level": 1.196850392,
+    "Lower Error Bound": 0.61023622,
+    "Upper Error Bound": 1.783464565,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1908,
+    "Mean Tempature": -0.4396,
+    "CSIRO Adjusted Sea Level": 1.098425196,
+    "Lower Error Bound": 0.527559055,
+    "Upper Error Bound": 1.669291337,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1909,
+    "Mean Tempature": -0.4261,
+    "CSIRO Adjusted Sea Level": 1.27559055,
+    "Lower Error Bound": 0.700787401,
+    "Upper Error Bound": 1.850393699,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1910,
+    "Mean Tempature": -0.3789,
+    "CSIRO Adjusted Sea Level": 1.271653542,
+    "Lower Error Bound": 0.696850393,
+    "Upper Error Bound": 1.846456691,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1911,
+    "Mean Tempature": -0.4332,
+    "CSIRO Adjusted Sea Level": 1.598425195,
+    "Lower Error Bound": 1.039370078,
+    "Upper Error Bound": 2.157480313,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1912,
+    "Mean Tempature": -0.3288,
+    "CSIRO Adjusted Sea Level": 1.476377951,
+    "Lower Error Bound": 0.917322834,
+    "Upper Error Bound": 2.035433069,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1913,
+    "Mean Tempature": -0.3162,
+    "CSIRO Adjusted Sea Level": 1.547244093,
+    "Lower Error Bound": 0.992125983,
+    "Upper Error Bound": 2.102362203,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1914,
+    "Mean Tempature": -0.1395,
+    "CSIRO Adjusted Sea Level": 1.795275589,
+    "Lower Error Bound": 1.251968503,
+    "Upper Error Bound": 2.338582675,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1915,
+    "Mean Tempature": -0.0693,
+    "CSIRO Adjusted Sea Level": 2.10629921,
+    "Lower Error Bound": 1.57086614,
+    "Upper Error Bound": 2.641732281,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1916,
+    "Mean Tempature": -0.293,
+    "CSIRO Adjusted Sea Level": 2.031496061,
+    "Lower Error Bound": 1.519685038,
+    "Upper Error Bound": 2.543307084,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1917,
+    "Mean Tempature": -0.3146,
+    "CSIRO Adjusted Sea Level": 1.854330707,
+    "Lower Error Bound": 1.350393699,
+    "Upper Error Bound": 2.358267714,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1918,
+    "Mean Tempature": -0.2084,
+    "CSIRO Adjusted Sea Level": 1.791338581,
+    "Lower Error Bound": 1.291338581,
+    "Upper Error Bound": 2.29133858,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1919,
+    "Mean Tempature": -0.2055,
+    "CSIRO Adjusted Sea Level": 1.854330707,
+    "Lower Error Bound": 1.354330707,
+    "Upper Error Bound": 2.354330706,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1920,
+    "Mean Tempature": -0.2105,
+    "CSIRO Adjusted Sea Level": 1.905511809,
+    "Lower Error Bound": 1.393700786,
+    "Upper Error Bound": 2.417322832,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1921,
+    "Mean Tempature": -0.1485,
+    "CSIRO Adjusted Sea Level": 1.988188974,
+    "Lower Error Bound": 1.472440943,
+    "Upper Error Bound": 2.503937005,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1922,
+    "Mean Tempature": -0.2304,
+    "CSIRO Adjusted Sea Level": 1.952755904,
+    "Lower Error Bound": 1.433070865,
+    "Upper Error Bound": 2.472440942,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1923,
+    "Mean Tempature": -0.2156,
+    "CSIRO Adjusted Sea Level": 1.999999998,
+    "Lower Error Bound": 1.488188975,
+    "Upper Error Bound": 2.511811021,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1924,
+    "Mean Tempature": -0.2486,
+    "CSIRO Adjusted Sea Level": 1.712598423,
+    "Lower Error Bound": 1.196850392,
+    "Upper Error Bound": 2.228346454,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1925,
+    "Mean Tempature": -0.1481,
+    "CSIRO Adjusted Sea Level": 1.791338581,
+    "Lower Error Bound": 1.255905511,
+    "Upper Error Bound": 2.326771651,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1926,
+    "Mean Tempature": -0.0667,
+    "CSIRO Adjusted Sea Level": 2.047244092,
+    "Lower Error Bound": 1.507874014,
+    "Upper Error Bound": 2.586614171,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1927,
+    "Mean Tempature": -0.1546,
+    "CSIRO Adjusted Sea Level": 2.003937006,
+    "Lower Error Bound": 1.496062991,
+    "Upper Error Bound": 2.511811021,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1928,
+    "Mean Tempature": -0.1774,
+    "CSIRO Adjusted Sea Level": 1.850393699,
+    "Lower Error Bound": 1.366141731,
+    "Upper Error Bound": 2.334645667,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1929,
+    "Mean Tempature": -0.2985,
+    "CSIRO Adjusted Sea Level": 1.905511809,
+    "Lower Error Bound": 1.429133857,
+    "Upper Error Bound": 2.381889761,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1930,
+    "Mean Tempature": -0.1003,
+    "CSIRO Adjusted Sea Level": 2.062992124,
+    "Lower Error Bound": 1.590551179,
+    "Upper Error Bound": 2.535433068,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1931,
+    "Mean Tempature": -0.0686,
+    "CSIRO Adjusted Sea Level": 2.047244092,
+    "Lower Error Bound": 1.566929132,
+    "Upper Error Bound": 2.527559053,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1932,
+    "Mean Tempature": -0.1168,
+    "CSIRO Adjusted Sea Level": 2.271653541,
+    "Lower Error Bound": 1.803149604,
+    "Upper Error Bound": 2.740157478,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1933,
+    "Mean Tempature": -0.2439,
+    "CSIRO Adjusted Sea Level": 2.440944879,
+    "Lower Error Bound": 1.976377951,
+    "Upper Error Bound": 2.905511808,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1934,
+    "Mean Tempature": -0.1015,
+    "CSIRO Adjusted Sea Level": 2.228346454,
+    "Lower Error Bound": 1.759842518,
+    "Upper Error Bound": 2.696850391,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1935,
+    "Mean Tempature": -0.1392,
+    "CSIRO Adjusted Sea Level": 2.448818895,
+    "Lower Error Bound": 1.980314959,
+    "Upper Error Bound": 2.917322832,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1936,
+    "Mean Tempature": -0.1134,
+    "CSIRO Adjusted Sea Level": 2.295275588,
+    "Lower Error Bound": 1.83070866,
+    "Upper Error Bound": 2.759842517,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1937,
+    "Mean Tempature": -0.0157,
+    "CSIRO Adjusted Sea Level": 2.519685037,
+    "Lower Error Bound": 2.055118108,
+    "Upper Error Bound": 2.984251965,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1938,
+    "Mean Tempature": -0.0288,
+    "CSIRO Adjusted Sea Level": 2.622047241,
+    "Lower Error Bound": 2.157480313,
+    "Upper Error Bound": 3.08661417,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1939,
+    "Mean Tempature": -0.0139,
+    "CSIRO Adjusted Sea Level": 2.826771651,
+    "Lower Error Bound": 2.346456691,
+    "Upper Error Bound": 3.307086611,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1940,
+    "Mean Tempature": 0.0947,
+    "CSIRO Adjusted Sea Level": 2.618110234,
+    "Lower Error Bound": 2.18110236,
+    "Upper Error Bound": 3.055118107,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1941,
+    "Mean Tempature": 0.196,
+    "CSIRO Adjusted Sea Level": 3.098425194,
+    "Lower Error Bound": 2.673228344,
+    "Upper Error Bound": 3.523622044,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1942,
+    "Mean Tempature": 0.1538,
+    "CSIRO Adjusted Sea Level": 3.098425194,
+    "Lower Error Bound": 2.673228344,
+    "Upper Error Bound": 3.523622044,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1943,
+    "Mean Tempature": 0.157,
+    "CSIRO Adjusted Sea Level": 3.098425194,
+    "Lower Error Bound": 2.673228344,
+    "Upper Error Bound": 3.523622044,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1944,
+    "Mean Tempature": 0.2928,
+    "CSIRO Adjusted Sea Level": 2.84645669,
+    "Lower Error Bound": 2.425196848,
+    "Upper Error Bound": 3.267716532,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1945,
+    "Mean Tempature": 0.171,
+    "CSIRO Adjusted Sea Level": 2.95669291,
+    "Lower Error Bound": 2.535433068,
+    "Upper Error Bound": 3.377952752,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1946,
+    "Mean Tempature": -0.004,
+    "CSIRO Adjusted Sea Level": 3.251968501,
+    "Lower Error Bound": 2.834645666,
+    "Upper Error Bound": 3.669291335,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1947,
+    "Mean Tempature": -0.0477,
+    "CSIRO Adjusted Sea Level": 3.374015745,
+    "Lower Error Bound": 2.996062989,
+    "Upper Error Bound": 3.7519685,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1948,
+    "Mean Tempature": -0.0487,
+    "CSIRO Adjusted Sea Level": 3.562992122,
+    "Lower Error Bound": 3.19685039,
+    "Upper Error Bound": 3.929133854,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1949,
+    "Mean Tempature": -0.0568,
+    "CSIRO Adjusted Sea Level": 3.51181102,
+    "Lower Error Bound": 3.181102359,
+    "Upper Error Bound": 3.842519681,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1950,
+    "Mean Tempature": -0.1616,
+    "CSIRO Adjusted Sea Level": 3.598425193,
+    "Lower Error Bound": 3.287401571,
+    "Upper Error Bound": 3.909448815,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1951,
+    "Mean Tempature": -0.0132,
+    "CSIRO Adjusted Sea Level": 3.972440941,
+    "Lower Error Bound": 3.665354327,
+    "Upper Error Bound": 4.279527555,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1952,
+    "Mean Tempature": 0.0248,
+    "CSIRO Adjusted Sea Level": 3.870078736,
+    "Lower Error Bound": 3.56692913,
+    "Upper Error Bound": 4.173228342,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1953,
+    "Mean Tempature": 0.0952,
+    "CSIRO Adjusted Sea Level": 4.043307082,
+    "Lower Error Bound": 3.748031492,
+    "Upper Error Bound": 4.338582673,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1954,
+    "Mean Tempature": -0.1165,
+    "CSIRO Adjusted Sea Level": 3.929133854,
+    "Lower Error Bound": 3.64173228,
+    "Upper Error Bound": 4.216535429,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1955,
+    "Mean Tempature": -0.1354,
+    "CSIRO Adjusted Sea Level": 3.964566925,
+    "Lower Error Bound": 3.685039366,
+    "Upper Error Bound": 4.244094484,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1956,
+    "Mean Tempature": -0.199,
+    "CSIRO Adjusted Sea Level": 3.763779524,
+    "Lower Error Bound": 3.488188973,
+    "Upper Error Bound": 4.039370075,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1957,
+    "Mean Tempature": 0.0488,
+    "CSIRO Adjusted Sea Level": 4.291338578,
+    "Lower Error Bound": 4.019685035,
+    "Upper Error Bound": 4.562992121,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1958,
+    "Mean Tempature": 0.1095,
+    "CSIRO Adjusted Sea Level": 4.346456688,
+    "Lower Error Bound": 4.086614169,
+    "Upper Error Bound": 4.606299208,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1959,
+    "Mean Tempature": 0.0596,
+    "CSIRO Adjusted Sea Level": 4.358267712,
+    "Lower Error Bound": 4.102362201,
+    "Upper Error Bound": 4.614173224,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1960,
+    "Mean Tempature": 0.0204,
+    "CSIRO Adjusted Sea Level": 4.503937003,
+    "Lower Error Bound": 4.244094484,
+    "Upper Error Bound": 4.763779523,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1961,
+    "Mean Tempature": 0.0775,
+    "CSIRO Adjusted Sea Level": 4.748031491,
+    "Lower Error Bound": 4.488188972,
+    "Upper Error Bound": 5.007874011,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1962,
+    "Mean Tempature": 0.0888,
+    "CSIRO Adjusted Sea Level": 4.543307082,
+    "Lower Error Bound": 4.283464563,
+    "Upper Error Bound": 4.803149601,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1963,
+    "Mean Tempature": 0.1068,
+    "CSIRO Adjusted Sea Level": 4.480314956,
+    "Lower Error Bound": 4.220472437,
+    "Upper Error Bound": 4.740157475,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1964,
+    "Mean Tempature": -0.1495,
+    "CSIRO Adjusted Sea Level": 4.169291334,
+    "Lower Error Bound": 3.905511807,
+    "Upper Error Bound": 4.433070862,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1965,
+    "Mean Tempature": -0.078,
+    "CSIRO Adjusted Sea Level": 4.610236216,
+    "Lower Error Bound": 4.346456688,
+    "Upper Error Bound": 4.874015743,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1966,
+    "Mean Tempature": -0.0227,
+    "CSIRO Adjusted Sea Level": 4.397637791,
+    "Lower Error Bound": 4.137795271,
+    "Upper Error Bound": 4.65748031,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1967,
+    "Mean Tempature": -0.0131,
+    "CSIRO Adjusted Sea Level": 4.452755901,
+    "Lower Error Bound": 4.196850389,
+    "Upper Error Bound": 4.708661413,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1968,
+    "Mean Tempature": -0.0296,
+    "CSIRO Adjusted Sea Level": 4.484251964,
+    "Lower Error Bound": 4.220472437,
+    "Upper Error Bound": 4.748031491,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1969,
+    "Mean Tempature": 0.0929,
+    "CSIRO Adjusted Sea Level": 4.751968499,
+    "Lower Error Bound": 4.476377948,
+    "Upper Error Bound": 5.02755905,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1970,
+    "Mean Tempature": 0.0372,
+    "CSIRO Adjusted Sea Level": 4.67716535,
+    "Lower Error Bound": 4.401574799,
+    "Upper Error Bound": 4.9527559,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1971,
+    "Mean Tempature": -0.0783,
+    "CSIRO Adjusted Sea Level": 4.881889759,
+    "Lower Error Bound": 4.610236216,
+    "Upper Error Bound": 5.153543302,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1972,
+    "Mean Tempature": 0.0264,
+    "CSIRO Adjusted Sea Level": 5.240157475,
+    "Lower Error Bound": 4.968503932,
+    "Upper Error Bound": 5.511811018,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1973,
+    "Mean Tempature": 0.1641,
+    "CSIRO Adjusted Sea Level": 5.003937003,
+    "Lower Error Bound": 4.736220468,
+    "Upper Error Bound": 5.271653538,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1974,
+    "Mean Tempature": -0.0719,
+    "CSIRO Adjusted Sea Level": 5.472440939,
+    "Lower Error Bound": 5.204724404,
+    "Upper Error Bound": 5.740157474,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1975,
+    "Mean Tempature": 0.0034,
+    "CSIRO Adjusted Sea Level": 5.409448813,
+    "Lower Error Bound": 5.145669286,
+    "Upper Error Bound": 5.673228341,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1976,
+    "Mean Tempature": -0.0792,
+    "CSIRO Adjusted Sea Level": 5.370078735,
+    "Lower Error Bound": 5.1023622,
+    "Upper Error Bound": 5.63779527,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1977,
+    "Mean Tempature": 0.1978,
+    "CSIRO Adjusted Sea Level": 5.303149601,
+    "Lower Error Bound": 5.043307081,
+    "Upper Error Bound": 5.56299212,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1978,
+    "Mean Tempature": 0.1123,
+    "CSIRO Adjusted Sea Level": 5.555118105,
+    "Lower Error Bound": 5.291338577,
+    "Upper Error Bound": 5.818897632,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1979,
+    "Mean Tempature": 0.2273,
+    "CSIRO Adjusted Sea Level": 5.362204719,
+    "Lower Error Bound": 5.098425192,
+    "Upper Error Bound": 5.625984246,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1980,
+    "Mean Tempature": 0.2637,
+    "CSIRO Adjusted Sea Level": 5.598425191,
+    "Lower Error Bound": 5.34251968,
+    "Upper Error Bound": 5.854330703,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1981,
+    "Mean Tempature": 0.2999,
+    "CSIRO Adjusted Sea Level": 6.086614167,
+    "Lower Error Bound": 5.830708655,
+    "Upper Error Bound": 6.342519679,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1982,
+    "Mean Tempature": 0.1815,
+    "CSIRO Adjusted Sea Level": 5.858267711,
+    "Lower Error Bound": 5.610236215,
+    "Upper Error Bound": 6.106299206,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1983,
+    "Mean Tempature": 0.3411,
+    "CSIRO Adjusted Sea Level": 6.188976372,
+    "Lower Error Bound": 5.93307086,
+    "Upper Error Bound": 6.444881883,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1984,
+    "Mean Tempature": 0.149,
+    "CSIRO Adjusted Sea Level": 6.153543301,
+    "Lower Error Bound": 5.905511805,
+    "Upper Error Bound": 6.401574797,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1985,
+    "Mean Tempature": 0.1342,
+    "CSIRO Adjusted Sea Level": 5.74803149,
+    "Lower Error Bound": 5.499999994,
+    "Upper Error Bound": 5.996062986,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1986,
+    "Mean Tempature": 0.2296,
+    "CSIRO Adjusted Sea Level": 5.771653537,
+    "Lower Error Bound": 5.523622042,
+    "Upper Error Bound": 6.019685033,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1987,
+    "Mean Tempature": 0.3696,
+    "CSIRO Adjusted Sea Level": 5.795275585,
+    "Lower Error Bound": 5.551181097,
+    "Upper Error Bound": 6.039370073,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1988,
+    "Mean Tempature": 0.3757,
+    "CSIRO Adjusted Sea Level": 5.980314955,
+    "Lower Error Bound": 5.732283459,
+    "Upper Error Bound": 6.22834645,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1989,
+    "Mean Tempature": 0.297,
+    "CSIRO Adjusted Sea Level": 6.157480309,
+    "Lower Error Bound": 5.905511805,
+    "Upper Error Bound": 6.409448812,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1990,
+    "Mean Tempature": 0.4328,
+    "CSIRO Adjusted Sea Level": 6.232283458,
+    "Lower Error Bound": 5.972440939,
+    "Upper Error Bound": 6.492125978,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1991,
+    "Mean Tempature": 0.4055,
+    "CSIRO Adjusted Sea Level": 6.334645663,
+    "Lower Error Bound": 6.074803143,
+    "Upper Error Bound": 6.594488182,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1992,
+    "Mean Tempature": 0.2571,
+    "CSIRO Adjusted Sea Level": 6.35826771,
+    "Lower Error Bound": 6.094488183,
+    "Upper Error Bound": 6.622047237,
+    "NOAA Adjusted Sea Level": "0"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1993,
+    "Mean Tempature": 0.2853,
+    "CSIRO Adjusted Sea Level": 6.291338576,
+    "Lower Error Bound": 6.027559049,
+    "Upper Error Bound": 6.555118104,
+    "NOAA Adjusted Sea Level": "6.297493046"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1994,
+    "Mean Tempature": 0.3409,
+    "CSIRO Adjusted Sea Level": 6.499999993,
+    "Lower Error Bound": 6.236220466,
+    "Upper Error Bound": 6.763779521,
+    "NOAA Adjusted Sea Level": "6.310933553"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1995,
+    "Mean Tempature": 0.4577,
+    "CSIRO Adjusted Sea Level": 6.618110229,
+    "Lower Error Bound": 6.354330702,
+    "Upper Error Bound": 6.881889757,
+    "NOAA Adjusted Sea Level": "6.452568661"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1996,
+    "Mean Tempature": 0.3228,
+    "CSIRO Adjusted Sea Level": 6.787401568,
+    "Lower Error Bound": 6.523622041,
+    "Upper Error Bound": 7.051181095,
+    "NOAA Adjusted Sea Level": "6.62763131"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1997,
+    "Mean Tempature": 0.5187,
+    "CSIRO Adjusted Sea Level": 7.066929127,
+    "Lower Error Bound": 6.803149599,
+    "Upper Error Bound": 7.330708654,
+    "NOAA Adjusted Sea Level": "6.733920367"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1998,
+    "Mean Tempature": 0.6344,
+    "CSIRO Adjusted Sea Level": 6.665354324,
+    "Lower Error Bound": 6.393700781,
+    "Upper Error Bound": 6.937007867,
+    "NOAA Adjusted Sea Level": "6.865806069"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 1999,
+    "Mean Tempature": 0.4438,
+    "CSIRO Adjusted Sea Level": 7.011811016,
+    "Lower Error Bound": 6.736220466,
+    "Upper Error Bound": 7.287401567,
+    "NOAA Adjusted Sea Level": "6.848689771"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2000,
+    "Mean Tempature": 0.4262,
+    "CSIRO Adjusted Sea Level": 7.062992119,
+    "Lower Error Bound": 6.791338576,
+    "Upper Error Bound": 7.334645662,
+    "NOAA Adjusted Sea Level": "6.920582014"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2001,
+    "Mean Tempature": 0.5473,
+    "CSIRO Adjusted Sea Level": 7.287401567,
+    "Lower Error Bound": 7.019685032,
+    "Upper Error Bound": 7.555118103,
+    "NOAA Adjusted Sea Level": "7.087460011"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2002,
+    "Mean Tempature": 0.6023,
+    "CSIRO Adjusted Sea Level": 7.381889756,
+    "Lower Error Bound": 7.110236213,
+    "Upper Error Bound": 7.653543299,
+    "NOAA Adjusted Sea Level": "7.319697525"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2003,
+    "Mean Tempature": 0.6134,
+    "CSIRO Adjusted Sea Level": 7.759842512,
+    "Lower Error Bound": 7.484251961,
+    "Upper Error Bound": 8.035433063,
+    "NOAA Adjusted Sea Level": "7.488352718"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2004,
+    "Mean Tempature": 0.5783,
+    "CSIRO Adjusted Sea Level": 7.740157472,
+    "Lower Error Bound": 7.464566922,
+    "Upper Error Bound": 8.015748023,
+    "NOAA Adjusted Sea Level": "7.507932839"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2005,
+    "Mean Tempature": 0.6585,
+    "CSIRO Adjusted Sea Level": 7.74409448,
+    "Lower Error Bound": 7.472440937,
+    "Upper Error Bound": 8.015748023,
+    "NOAA Adjusted Sea Level": "7.644563144"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2006,
+    "Mean Tempature": 0.6125,
+    "CSIRO Adjusted Sea Level": 7.917322827,
+    "Lower Error Bound": 7.645669284,
+    "Upper Error Bound": 8.18897637,
+    "NOAA Adjusted Sea Level": "7.697420009"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2007,
+    "Mean Tempature": 0.61,
+    "CSIRO Adjusted Sea Level": 7.996062984,
+    "Lower Error Bound": 7.712598417,
+    "Upper Error Bound": 8.279527551,
+    "NOAA Adjusted Sea Level": "7.70214715"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2008,
+    "Mean Tempature": 0.5419,
+    "CSIRO Adjusted Sea Level": 8.350393692,
+    "Lower Error Bound": 8.078740149,
+    "Upper Error Bound": 8.622047235,
+    "NOAA Adjusted Sea Level": "7.90736541"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2009,
+    "Mean Tempature": 0.6367,
+    "CSIRO Adjusted Sea Level": 8.586614164,
+    "Lower Error Bound": 8.311023614,
+    "Upper Error Bound": 8.862204715,
+    "NOAA Adjusted Sea Level": "8.04635409"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2010,
+    "Mean Tempature": 0.7014,
+    "CSIRO Adjusted Sea Level": 8.901574794,
+    "Lower Error Bound": 8.618110227,
+    "Upper Error Bound": 9.185039361,
+    "NOAA Adjusted Sea Level": "8.122972567"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2011,
+    "Mean Tempature": 0.5788,
+    "CSIRO Adjusted Sea Level": 8.96456692,
+    "Lower Error Bound": 8.661417314,
+    "Upper Error Bound": 9.267716526,
+    "NOAA Adjusted Sea Level": "8.053065004"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2012,
+    "Mean Tempature": 0.624,
+    "CSIRO Adjusted Sea Level": 9.326771644,
+    "Lower Error Bound": 8.992125975,
+    "Upper Error Bound": 9.661417313,
+    "NOAA Adjusted Sea Level": "8.457057629"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2013,
+    "Mean Tempature": 0.6679,
+    "CSIRO Adjusted Sea Level": 8.980314951,
+    "Lower Error Bound": 8.622047235,
+    "Upper Error Bound": 9.338582668,
+    "NOAA Adjusted Sea Level": "8.546648227"
+  },
+  {
+    "Tempature Source": "GCAG",
+    "year": 2014,
+    "Mean Tempature": 0.7408,
+    "CSIRO Adjusted Sea Level": 0,
+    "Lower Error Bound": 0,
+    "Upper Error Bound": 0,
+    "NOAA Adjusted Sea Level": "8.663700393"
+  }
+]
